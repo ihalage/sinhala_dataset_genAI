@@ -1,6 +1,6 @@
 ## Setting Up
 
-Please follow the instructions from [Googl Cloud](https://cloud.google.com/python/docs/setup#linux) for installing the google cloud python API. Log In to your google cloud account and download your credentials as a JSON file and store it locally. Add your credentials to `os.environ['GOOGLE_APPLICATION_CREDENTIALS']` (line 27).
+Please follow the instructions from [Google Cloud](https://cloud.google.com/python/docs/setup#linux) for installing the google cloud python API. Log In to your google cloud account and download your credentials as a JSON file and store it locally. Add your credentials to `os.environ['GOOGLE_APPLICATION_CREDENTIALS']` (line 27).
 
 Install the `datasets` package from Hugging Face.
 
